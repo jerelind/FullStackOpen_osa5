@@ -1,0 +1,21 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "testiblogi1",
+      "author": "jlind"
+    },
+    {
+      "id": 2,
+      "title": "testi2",
+      "author": "kj"
+    }
+  ],
+
+  "users": [
+    {
+      "username": "jere",
+      "password": "123"
+    }
+  ]
+}
